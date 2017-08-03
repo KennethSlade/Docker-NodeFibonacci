@@ -1,5 +1,5 @@
 # Docker-NodeFibonacci
-A simple implementation of a Node.js service that serves up Fibonacci numbers to the included front-end
+A simple Docker implementation of a Node.js service that serves up Fibonacci numbers to the included front-end
 
 To run this example, do the following:
 
