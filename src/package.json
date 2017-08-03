@@ -1,0 +1,9 @@
+{
+	"name": "docker-nodefibonacci",
+	"private": true,
+	"version": "1.0.0",
+	"description": "A simple Node.js implementation of both front and back end for requesting a Fibonacci sequence",
+	"dependencies": {
+		"express": "*"
+	}
+}
